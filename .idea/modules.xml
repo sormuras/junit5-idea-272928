@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/com.example.library.iml" filepath="$PROJECT_DIR$/.idea/com.example.library.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/junit5-idea-272928.iml" filepath="$PROJECT_DIR$/.idea/junit5-idea-272928.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/test.base.iml" filepath="$PROJECT_DIR$/.idea/test.base.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/test.integration.iml" filepath="$PROJECT_DIR$/.idea/test.integration.iml" />
+    </modules>
+  </component>
+</project>
