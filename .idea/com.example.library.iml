@@ -4,8 +4,11 @@
     <exclude-output />
     <content url="file://$MODULE_DIR$/com.example.library">
       <sourceFolder url="file://$MODULE_DIR$/com.example.library/main/java" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/com.example.library/test/java" isTestSource="true" />
     </content>
-    <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
+    <orderEntry type="module" module-name="test.base" scope="TEST" />
+    <orderEntry type="library" scope="TEST" name="JUnit Jupiter" level="project" />
+    <orderEntry type="inheritedJdk" />
   </component>
 </module>
