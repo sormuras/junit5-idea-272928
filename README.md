@@ -14,8 +14,6 @@ See https://youtrack.jetbrains.com/issue/IDEA-272928#focus=Comments-27-5177725.0
 A manual work-around is to add the following command-line arguments to the VM Options of the `All in com.example.library` run configuration:
 
 ```text
---add-modules
-java.scripting
 --add-reads
 com.example.library=java.scripting
 ```
