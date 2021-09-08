@@ -1,0 +1,8 @@
+<component name="ProjectRunConfigurationManager">
+  <configuration default="false" name="All tests" type="CompoundRunConfigurationType">
+    <toRun name="All in test.base" type="JUnit" />
+    <toRun name="All in test.integration" type="JUnit" />
+    <toRun name="All in com.example.library" type="JUnit" />
+    <method v="2" />
+  </configuration>
+</component>
