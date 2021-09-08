@@ -8,7 +8,8 @@
     <orderEntry type="sourceFolder" forTests="false" />
     <orderEntry type="module" module-name="test.base" scope="TEST" />
     <orderEntry type="module" module-name="com.example.library" scope="TEST" />
-    <orderEntry type="library" scope="TEST" name="JUnit Jupiter" level="project" />
+    <orderEntry type="library" scope="TEST" name="junit.jupiter" level="project" />
+    <orderEntry type="library" scope="TEST" name="junit.platform.console" level="project" />
     <orderEntry type="inheritedJdk" />
   </component>
 </module>
